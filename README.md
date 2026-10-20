@@ -1,9 +1,3 @@
-# Hi, I'm marux1 👋
+# marux1
 
-独立制作人。
-
-## 技术栈与工具
-
-- 语言与运行时：Python · Node.js
-- 开发工具与环境：Git · Linux
-- AI 编程工具：Claude Code · Codex
+独立开发者，使用 Python、Node.js 开发，配合 Git 与 Linux，使用 Claude Code 和 Codex 辅助编程。
